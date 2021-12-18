@@ -1,0 +1,21 @@
+.Nav{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    transition-timing-function: ease-in;
+    transition: all 0.5s;
+}
+.nav_black{
+    background-color: #111;
+   
+}
+.Nav-logo{
+    width: 120px;
+    float: left;
+    object-fit: contain;
+    color: red;
+    margin-left: 20px;
+    padding: 10px;
+    font-family: cascadia-code;
+    font-weight: boldnpm;
+}
